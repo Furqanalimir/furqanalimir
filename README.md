@@ -21,13 +21,13 @@ I’d love to connect with you! You can reach me through:
 
 - **LinkedIn**: https://www.linkedin.com/in/furqan-ali-1236a6182
 - **Email**: mirfurqan89@gmail.com
-
+<!--
 ## 📊 GitHub Stats
 
-<!--![Furqan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Furqanalimir&show_icons=true&hide_title=true&count_private=true&hide=prs&include_all_commits=true&line_height=24&theme=radical)-->
+![Furqan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Furqanalimir&show_icons=true&hide_title=true&count_private=true&hide=prs&include_all_commits=true&line_height=24&theme=radical)
 
 ## 💡 Fun Fact
-
+-->
 Thanks for stopping by my profile! Feel free to explore my repositories and reach out if you have any questions or just want to say hi. Happy coding! 😄
 
 ---

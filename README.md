@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 I’d love to connect with you! You can reach me through:
 
-- **LinkedIn**: https://www.linkedin.com/in/furqan-ali-1236a6182
+- **LinkedIn**: https://www.linkedin.com/in/furqanalimir
 - **Email**: mirfurqan89@gmail.com
 <!--
 ## 📊 GitHub Stats

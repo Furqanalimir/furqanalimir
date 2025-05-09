@@ -11,22 +11,20 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer who thrives on 
 🎯 Passions: Crafting clean, scalable code and optimizing software performance
 
 🔧 Technologies & Tools
-Languages: JavaScript, TypeScript, Golang, Python
+Languages: JavaScript, TypeScript, Golang etc.
 
-Frameworks & Libraries: React, Node.js, Gin, Express, Next.js
+Frameworks & Libraries: React, Node.js, Gin, Express, Next.js etc.
 
-Tools & Platforms: Git, Docker, Kubernetes, CI/CD, AWS
+Tools & Platforms: Git, Docker, Kubernetes, CI/CD, AWS, Grafana, Loki etc.
 
-Databases: SQL, NoSQL (MongoDB, PostgreSQL), Redis
+Databases: SQL, NoSQL (MongoDB, dynamodb), Redis
 
-Other Skills: REST APIs, Microservices Architecture, Unit Testing, TDD
+Other Skills: REST APIs, Microservices Architecture, MonoRepo Architecture, Unit Testing, TDD
 
 🌱 What I’m Currently Learning
 DevOps practices and tools (Docker, Kubernetes)
 
 Advanced Golang concepts
-
-Machine Learning basics
 
 📫 Let’s Connect
 I’d love to collaborate, discuss tech, or connect with like-minded individuals. You can reach me through:

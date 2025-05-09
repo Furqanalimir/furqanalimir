@@ -31,7 +31,7 @@ Machine Learning basics
 📫 Let’s Connect
 I’d love to collaborate, discuss tech, or connect with like-minded individuals. You can reach me through:
 
-LinkedIn: Furqan Ali Mir
+LinkedIn: [Furqan Ali Mir](https://www.linkedin.com/in/furqanalimir)
 
 Email: mirfurqan89@gmail.com
 

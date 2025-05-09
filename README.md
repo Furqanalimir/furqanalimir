@@ -1,35 +1,47 @@
-# Hi there, I'm Furqan Ali Mir 👋
+Hello, I'm Furqan Ali Mir 👋
+Welcome to my GitHub profile! I'm a passionate Software Engineer who thrives on solving problems and building innovative solutions. Here’s a bit about me and my work!
 
-Welcome to my GitHub profile! I'm a passionate software developer with a love for coding and problem-solving. Here’s a little bit about me and my work.
+🚀 About Me
+💼 Current Role: Software Engineer
 
-## 🚀 About Me
+🌍 Location: Bangalore, India
 
-- 💼 **Current Role**: Software Engineer 
-- 🌍 **Location**: Bangalore
-- 🧩 **Interests**: Software development, Open Source
+🧩 Interests: Software Development, Open Source Contributions, Tech Community Engagement
 
-## 🔧 Technologies & Tools
+🎯 Passions: Crafting clean, scalable code and optimizing software performance
 
-- **Languages**: JavaScript, Golang, Typescript etc.
-- **Frameworks/Libraries**: React, Node.js etc.
-- **Tools**: Git, Docker etc.
-- **Databases**: MongoDB, SQL, Redis etc.
+🔧 Technologies & Tools
+Languages: JavaScript, TypeScript, Golang, Python
 
-## 📫 Get in Touch
+Frameworks & Libraries: React, Node.js, Gin, Express, Next.js
 
-I’d love to connect with you! You can reach me through:
+Tools & Platforms: Git, Docker, Kubernetes, CI/CD, AWS
 
-- **LinkedIn**: https://www.linkedin.com/in/furqanalimir
-- **Email**: mirfurqan89@gmail.com
-<!--
-## 📊 GitHub Stats
+Databases: SQL, NoSQL (MongoDB, PostgreSQL), Redis
 
-![Furqan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Furqanalimir&show_icons=true&hide_title=true&count_private=true&hide=prs&include_all_commits=true&line_height=24&theme=radical)
+Other Skills: REST APIs, Microservices Architecture, Unit Testing, TDD
 
-## 💡 Fun Fact
--->
-Thanks for stopping by my profile! Feel free to explore my repositories and reach out if you have any questions or just want to say hi. Happy coding! 😄
+🌱 What I’m Currently Learning
+DevOps practices and tools (Docker, Kubernetes)
 
----
+Advanced Golang concepts
 
-*This README.md was generated with 💙 by Furqan Ali Mir.*
+Machine Learning basics
+
+📫 Let’s Connect
+I’d love to collaborate, discuss tech, or connect with like-minded individuals. You can reach me through:
+
+LinkedIn: Furqan Ali Mir
+
+Email: mirfurqan89@gmail.com
+
+📊 GitHub Stats
+
+
+💡 Fun Fact
+I once built an app in 24 hours during a hackathon and it ended up becoming a personal project! 🏆
+
+Thanks for visiting my profile! Feel free to explore my repositories, and don’t hesitate to reach out if you want to chat, collaborate, or just say hello. Happy coding! 😄
+
+This README.md was created with 💙 by Furqan Ali Mir.
+

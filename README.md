@@ -33,7 +33,8 @@ LinkedIn: [Furqan Ali Mir](https://www.linkedin.com/in/furqanalimir)
 
 Email: mirfurqan89@gmail.com
 
-📊 GitHub Stats
+![Furqan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Furqanalimir&show_icons=true&hide_title=true&count_private=true&hide=prs&include_all_commits=true&line_height=24&theme=radical)
+
 
 
 💡 Fun Fact
